@@ -1,0 +1,2 @@
+# Encapsulation
+encapsulation example
